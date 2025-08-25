@@ -7,8 +7,8 @@ from telegram.ext import (
 )
 
 # ──────────────── CONFIG ────────────────
-TOKEN = "7216043344:AAEBBHQPmumJUsN3-7JcHH8nnr_qYZS_1nw"   # Replace with your token
-ADMIN_ID = 6536202039
+TOKEN = "TELEGRAM_BOT_TOKENw"   # Replace with your token
+ADMIN_ID = CHAT-ID
 WHITELIST_FILE = "whitelist.json"
 
 WHITELISTED_IDS = []
@@ -220,3 +220,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
